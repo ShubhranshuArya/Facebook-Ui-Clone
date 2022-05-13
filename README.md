@@ -2,6 +2,13 @@
 
 Simple Ui clone of Facebook app and website.
 
+## Ui Prototype
+
+https://user-images.githubusercontent.com/77967955/168280469-757bc391-c802-4990-a7b9-05d9acbe7a00.mp4
+
+https://user-images.githubusercontent.com/77967955/168281257-ea238434-5b99-4c88-b1dc-f6cd474eb13f.mov
+
+
 ## Learnings
 
 - Import null safety enabled plugins for Null safe projects.
