@@ -2,11 +2,13 @@
 
 Simple Ui clone of Facebook app and website.
 
+![Facebook-UI-Preview](https://user-images.githubusercontent.com/77967955/192444139-e555598b-6ccc-48d3-81f5-1217a80cdcc3.png)
+
 ## Ui Prototype
 
-https://user-images.githubusercontent.com/77967955/168280469-757bc391-c802-4990-a7b9-05d9acbe7a00.mp4
-
 https://user-images.githubusercontent.com/77967955/168281257-ea238434-5b99-4c88-b1dc-f6cd474eb13f.mov
+
+https://user-images.githubusercontent.com/77967955/168280469-757bc391-c802-4990-a7b9-05d9acbe7a00.mp4
 
 
 ## Learnings
